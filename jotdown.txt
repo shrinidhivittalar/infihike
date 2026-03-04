@@ -1,0 +1,19 @@
+i wanna build an information website for a company called InfinityHikers using REACT the company takes people to already planned itenaries
+u can use this as an inspiration for the page which comes after clicking make it a 3D website make it cool and interactive
+
+
+https://www.awwwards.com/inspiration/preloader-nature-beyond-technology (this is the landing page i mean this is how the website should start)
+
+https://www.awwwards.com/inspiration/travel-calculator-neptune-wharf (this is how u can check the money)
+
+Key Features for cards of itenaries
+Hero Slider: Implement a 3D Coverflow carousel (like Swiper.js) that allows users to cycle through travel destinations (Machu Picchu, Chamonix, Mimisa Rocks).
+Visuals: The active slide should be front-and-center with high-impact typography overlaying the image. Inactive slides should be scaled down and rotated in 3D space.
+Header: A transparent sticky navbar with links for Destinations, Trip Types, and a 'Book Now' CTA button.
+Styling: Use a dark theme with a background that uses a blurred version of the current slide's image to create depth. Use 'Inter' or a similar clean sans-serif font."
+
+https://www.awwwards.com/inspiration/travel-gallery-diego-sevilla-portfolio-2025 (adding an interactive map like this)
+
+
+so everytime the company people cannot come to a developer to add new itenaries or do changes in their itenaries, so u have to give a separate page for company officials so that whenever they upload or change the details of new or existing itenaries then it should get reflected in the same style as the website 
+basically they should just upload the photos and details and it should come n get reflected in the main website exactly like the other itenaries
